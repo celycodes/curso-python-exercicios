@@ -16,3 +16,13 @@
  - [GitHub](https://github.com/cursoemvideo)
  - [Site](https://www.cursoemvideo.com/)
  
+
+#### Caso queira um  realizar um projeto comigo (ou até mesmo bater papo), não hesite em me enviar uma mensagem, acesse o link das minhas redes sociais abaixo: ⤵️
+
+- [Instagram](instagram.com/celycodes)
+
+- [Twitter](twitter.com/ceIenny)
+
+- [GitHub](https://github.com/celenny)
+
+- [LinkedIn](https://www.linkedin.com/in/celenny)
