@@ -1,5 +1,5 @@
 # Exercicíos do Curso de lógica de programação em Python
- ![curso-python-exercicios](https://user-images.githubusercontent.com/70456452/126914799-0c303fdf-341e-4bf2-b724-363fda45e186.png)
+ ![curso-python-exercicios](https://user-images.githubusercontent.com/70456452/168808867-c1b41912-0a2b-472b-96b3-c5873b4b41f4.png)
  ### repositório criado para compartilhar os meus avanços no curso de Python 3 <br>
  - Curso criado pelo Professor [Gustavo Guanabara](https://github.com/gustavoguanabara). 
  - Python é uma linguagem ultra moderna, utilizada pelo Google, YouTube, Industrial Light & Magic, Globo e muitas outras.    
